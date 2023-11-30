@@ -1,0 +1,29 @@
+.part-0 {
+  background-color: blueviolet;
+}
+
+.part-1 {
+  background-color: blue;
+  /* height: 744px; */
+  /* width: 100vw; */
+  width: 1536px;
+  height: 100vh;
+  /* background-color: rgb(207, 243, 123); */
+  box-sizing: border-box;
+  padding: 2rem 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.part-2 {
+  background-color: black;
+  height: 744px;
+}
+.part-3 {
+  background-color: pink;
+  height: 744px;
+}
+.part-3 {
+  background-color: greenyellow;
+  height: 744px;
+}
