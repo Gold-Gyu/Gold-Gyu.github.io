@@ -1,0 +1,13 @@
+.introBox {
+  position: relative; /* 상대적 위치 설정 */
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh; /* 뷰포트 높이로 설정 */
+}
+
+.intro-font {
+  color: white;
+}
+
+.intro-text-box {
+}
